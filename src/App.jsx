@@ -9,11 +9,12 @@ function App() {
         <h1 className="text-3xl font-bold underline">
           Holis mundito
         </h1>
-        <Button name="Julieth"/>
-        <Button name="Habid"/>
-        <Button name="Mazuzoe"/>
-        <Button name="Vader"/>
-        <Button name="Odashi"/>
+        <Layout>
+        	<Button name="Julieth"/>
+        	<Button name="Habid"/>
+        	<Button name="Mazuzoe"/>
+        	<Button name="Vader"/>
+        	<Button name="Odashi"/>
         <Layout/>
       </div>
 
