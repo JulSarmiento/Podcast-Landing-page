@@ -1,4 +1,5 @@
 import Button from "./components/button"
+import { Layout } from "./components/layout"
 
 function App() {
 
@@ -8,7 +9,12 @@ function App() {
         <h1 className="text-3xl font-bold underline">
           Holis mundito
         </h1>
-        <Button name="Julieth"></Button>
+        <Button name="Julieth"/>
+        <Button name="Habid"/>
+        <Button name="Mazuzoe"/>
+        <Button name="Vader"/>
+        <Button name="Odashi"/>
+        <Layout/>
       </div>
 
     </>
